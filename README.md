@@ -46,4 +46,4 @@ This series of SQL queries covers various tasks involving employee data manageme
 
 Each of these tasks demonstrates key aspects of SQL functionality such as **joins**, **aggregation**, **subqueries**, **conditional logic**, **stored procedures**, **triggers**, and **user-defined functions**. These operations are used to retrieve, manipulate, and analyze data effectively in a relational database system.  
 
-Query:
+Query:https://github.com/JIMMYULAHANNAN/MySQL_solved_exercise/blob/main/10-Practice-Final-Query-Questions%2B-%2BSOLUTIONS.sql
